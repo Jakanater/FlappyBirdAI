@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FlappyBirdAI
-=======
 # FlappyBirdAI
  
 You can upload a file of weights with the Upload Brain Button
