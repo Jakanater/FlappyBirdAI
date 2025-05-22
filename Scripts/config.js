@@ -1,0 +1,1 @@
+const TOTAL = 1000;
